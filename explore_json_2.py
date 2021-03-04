@@ -46,7 +46,7 @@ data = [
         }
     }
 ]
-
+#trial to commit 
 
 my_layout = Layout(title = "Global Earthquakers")
 
